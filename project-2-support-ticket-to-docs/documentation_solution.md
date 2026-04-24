@@ -23,7 +23,7 @@ Before you begin, ensure you have:
 **Set Up Integration:**
 
 1. Navigate to **Settings** in your platform dashboard
- * Locate the settings icon in the top right corner of the screen (_Image of Settings icon here_)
+  * Locate the settings icon in the top right corner of the screen (_Image of Settings icon here_)
 2. Select **Integrations**
 3. Click **Connect Messaging Platform**
 4. Authorize access by signing in to your messaging account
