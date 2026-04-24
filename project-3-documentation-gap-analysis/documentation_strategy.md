@@ -12,7 +12,7 @@ Create a series of beginner-friendly guides that help users get started quickly.
 
 Examples:
 
-* “Getting Started with Notion”
+* “Getting Started with the platform”
 * “How to Structure Your Workspace”
 * “Intro to Pages vs. Databases”
 
