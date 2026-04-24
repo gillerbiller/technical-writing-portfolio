@@ -41,7 +41,7 @@ After completing setup:
 
 **Common Issues and Solutions**
 
- **No messages appear in the selected channel**
+**No messages appear in the selected channel**
   * Confirm the correct channel or destination was selected during the set up
   * Check that notifications are enabled in platform settings
       * Click the settings icon
@@ -50,12 +50,12 @@ After completing setup:
       * Click the notification icon to enable (_enabled notifactions image_)
    * Verify that permissions were granted during setup
 
-  **Authorization fails during setup**
-    * Ensure you are signed into the correct account
-    * Retry the connection process
-    * Clear browser cache or try a different browser
+**Authorization fails during setup**
+   * Ensure you are signed into the correct account
+   * Retry the connection process
+   * Clear browser cache or try a different browser
 
-  **Integration appears connected but is not functioning**
+**Integration appears connected but is not functioning**
     * Disconnect and reconnect the integration
     * Verify permissions within the messaging platform
     * Check for system delays or temporary service disruptions
