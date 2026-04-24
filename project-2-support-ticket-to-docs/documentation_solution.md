@@ -22,22 +22,22 @@ Before you begin, ensure you have:
 
 **Set Up Integration:**
 
-  1. Navigate to **Settings** in your platform dashboard
-    1. Locate the settings icon in the top right corner of the screen (_Image of Settings icon here_)
-  2. Select **Integrations**
-  3. Click **Connect Messaging Platform**
-  4. Authorize access by signing in to your messaging account
-  5. Select the channel or destination for notifications
-  6. Click **Confirm** to complete setup
+1. Navigate to **Settings** in your platform dashboard
+ 1. Locate the settings icon in the top right corner of the screen (_Image of Settings icon here_)
+2. Select **Integrations**
+3. Click **Connect Messaging Platform**
+4. Authorize access by signing in to your messaging account
+5. Select the channel or destination for notifications
+6. Click **Confirm** to complete setup
 
 **Verify Integration Status**
 After completing setup:
 
-  1. Return to the Integrations page
-  2. Confirm the integration displays a **Connected** status
-     1. Look for a green check mark (_status connected image here_)
-  3. Send a test notification
-  4. Verify that the message appears in the selected channel
+1. Return to the Integrations page
+2. Confirm the integration displays a **Connected** status
+   1. Look for a green check mark (_status connected image here_)
+3. Send a test notification
+4. Verify that the message appears in the selected channel
 
 **Common Issues and Solutions**
 
