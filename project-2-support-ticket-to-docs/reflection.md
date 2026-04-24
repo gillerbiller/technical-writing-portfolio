@@ -28,6 +28,14 @@ The documentation solutions were designed to:
 
 This approach shifts documentation from reactive to proactive, improving both user experience and support efficiency.
 
+## Execution Example
+
+As part of this project, one documentation solution was developed into a complete knowledge base article.
+
+This demonstrates how identified support patterns can be translated into clear, structured documentation that users can follow to resolve issues independently.
+
+Including a fully written example highlights not only documentation strategy, but also execution quality and attention to user experience.
+
 ## Systems Thinking
 
 This project reflects a broader documentation workflow:
