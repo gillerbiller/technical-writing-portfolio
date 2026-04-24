@@ -56,9 +56,9 @@ After completing setup:
    * Clear browser cache or try a different browser
 
 **Integration appears connected but is not functioning**
-    * Disconnect and reconnect the integration
-    * Verify permissions within the messaging platform
-    * Check for system delays or temporary service disruptions
+   * Disconnect and reconnect the integration
+   * Verify permissions within the messaging platform
+   * Check for system delays or temporary service disruptions
 
 **When to Contact Support**
 Contact support if:
