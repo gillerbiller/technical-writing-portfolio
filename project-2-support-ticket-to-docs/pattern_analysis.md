@@ -21,7 +21,7 @@ This suggests a lack of clear documentation around system behavior and expected 
 
 Users experience issues with integrations but are unsure how to verify if the integration is working correctly.
 
-* Slack integration appears active but does not send messages
+* Messaging tool integration appears active but does not send messages
 
 This indicates missing documentation around integration setup, validation, and troubleshooting.
 
