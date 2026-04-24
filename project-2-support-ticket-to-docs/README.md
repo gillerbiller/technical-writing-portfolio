@@ -14,7 +14,9 @@ Without a system for identifying patterns, these issues are repeatedly handled b
 
 ## Documentation Approach
 
-This project follows a structured workflow:
+This project includes both documentation planning and a fully developed example article to demonstrate execution.
+
+All documentation planning follows a structured workflow:
 
 1. Collect raw support tickets
 2. Identify patterns across user issues
@@ -32,7 +34,7 @@ Simulated support tickets representing real-world user issues.
 Analysis of recurring themes across support tickets.
 
 **documentation_solution.md**
-Proposed documentation based on identified patterns.
+One fully developed example article and two documentation outlines based on identified patterns.
 
 **reflection.md**
 Explanation of documentation strategy, systems thinking, and opportunities for automation.
