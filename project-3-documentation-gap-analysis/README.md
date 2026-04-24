@@ -8,7 +8,7 @@ The goal is to demonstrate how documentation can be analyzed strategically to im
 
 ## Product Analyzed
 
-This project focuses on Notion, a flexible productivity and collaboration platform used for note-taking, project management, and knowledge sharing.
+This project focuses on a flexible productivity and collaboration platform used for note-taking, project management, and knowledge sharing.
 
 ## Documentation Approach
 
