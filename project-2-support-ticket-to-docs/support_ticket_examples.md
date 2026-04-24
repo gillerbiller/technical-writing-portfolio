@@ -6,9 +6,9 @@ Hi, I’m trying to export my data but nothing happens when I click the export b
 
 ---
 
-## Ticket 2 — Slack Integration Not Working
+## Ticket 2 — Messaging Integration Not Working
 
-I connected Slack but messages aren’t being sent to the channel. It says the integration is active, but nothing is showing up. Can you help?
+I connected the messaging tooling but messages aren’t being sent to the channel. It says the integration is active, but nothing is showing up. Can you help?
 
 ---
 
