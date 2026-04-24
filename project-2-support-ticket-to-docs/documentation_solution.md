@@ -35,20 +35,20 @@ After completing setup:
 
 1. Return to the Integrations page
 2. Confirm the integration displays a **Connected** status
-   1. Look for a green check mark (_status connected image here_)
+   * Look for a green check mark (_status connected image here_)
 3. Send a test notification
 4. Verify that the message appears in the selected channel
 
 **Common Issues and Solutions**
 
-  **No messages appear in the selected channel**
-    * Confirm the correct channel or destination was selected during the set up
-    * Check that notifications are enabled in platform settings
+ **No messages appear in the selected channel**
+  * Confirm the correct channel or destination was selected during the set up
+  * Check that notifications are enabled in platform settings
       * Click the settings icon
       * Navigate down to Notifications
       * If the notification icon has a line through it, notifications are disabled (_diabled notifactions image here_)
       * Click the notification icon to enable (_enabled notifactions image_)
-    *Verify that permissions were granted during setup
+   * Verify that permissions were granted during setup
 
   **Authorization fails during setup**
     * Ensure you are signed into the correct account
