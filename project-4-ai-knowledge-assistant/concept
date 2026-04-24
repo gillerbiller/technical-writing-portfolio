@@ -1,4 +1,4 @@
-#AI Knowledge Assistant — Concept
+# AI Knowledge Assistant — Concept
 
 ## Overview
 
@@ -10,21 +10,21 @@ Instead of navigating multiple help articles, users can ask questions in natural
 
 The goal of this assistant is to:
 
-* reduce time spent searching for information
-* improve user self-service
-* provide consistent, accurate answers
-* reduce repetitive support tickets
+  * reduce time spent searching for information
+  * improve user self-service
+  * provide consistent, accurate answers
+  * reduce repetitive support tickets
 
 ## Example Use Cases
 
 Users might ask:
 
-* “Why isn’t my dashboard loading?”
-* “How do I export my data?”
-* “Why is my integration not working?”
+  * “Why isn’t my dashboard loading?”
+  * “How do I export my data?”
+  * “Why is my integration not working?”
 
 The assistant responds with:
 
-* relevant steps
-* troubleshooting guidance
-* links to full documentation (if needed)
+  * relevant steps
+  * troubleshooting guidance
+  * links to full documentation (if needed)
